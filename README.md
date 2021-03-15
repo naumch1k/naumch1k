@@ -1,16 +1,24 @@
-### Hi there 👋
+### Languages and Tools
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Figma" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Figma-1-logo.png" />
+<br>
 
-<!--
-**naumch1k/naumch1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- [HTML Academy][htmlacademy] Professional Website Coding | Jan, 2021 - Feb, 2021  
+- [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current  
+- [HTML Academy][htmlacademy] Adaptive Design and CSS Preprocessors | March, 2021 - Current 
 
-Here are some ideas to get you started:
+### Contacts
+[<img alt="naumchik Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
+[<img alt="naumchik Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png">][facebook]
+[<img alt="naumchik Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[instagram]: https://www.instagram.com/naumchik_irina/
+[facebook]: https://www.facebook.com/profile.php?id=1094566124
+[telegram]: https://t.me/naumch1ck
+[yapraktikum]: https://praktikum.yandex.ru/
+[htmlacademy]: https://htmlacademy.org/
