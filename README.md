@@ -12,6 +12,16 @@
 - [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current  
 - [HTML Academy][htmlacademy] Adaptive Design and CSS Preprocessors | March, 2021 - Current 
 
+### Current Projects 
+#### JS:
+* ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, interactive webpage where users can share their pictures
+
+### Other Projects 
+#### HTML, CSS:
+* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project created as a part of a study at HTML Academy, website about traveling the small town of Sedona.
+* ["Russian Travel"](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, single-page website with adaptive design about traveling across Russia
+* ["How to learn"](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, single-page website about studying methods
+
 ### Contacts
 [<img align="left" alt="naumchik Instagram" width="22px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c521.png">][instagram]
 [<img align="left" alt="naumchik Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png">][facebook]
@@ -20,7 +30,7 @@
 [instagram]: https://www.instagram.com/naumchik_irina/
 [facebook]: https://www.facebook.com/profile.php?id=1094566124
 [telegram]: https://t.me/naumch1ck
-[yapraktikum]: https://praktikum.yandex.ru/
+[yapraktikum]: https://practicum.yandex.com/web/
 [htmlacademy]: https://htmlacademy.org/
 [vscode]: https://code.visualstudio.com/
 [html]: https://html.spec.whatwg.org/
