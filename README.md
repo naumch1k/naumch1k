@@ -26,10 +26,6 @@
 [<img align="left" alt="naumchik Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">][Linkedin]
 [<img align="left" alt="naumchik Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png">][facebook]
 [<img align="left" alt="naumchik Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
-<br>
-<br>
-
-<img align="left" alt="naumchik codewars" heigth="22px" src="https://www.codewars.com/users/naumch1k/badges/micro">
 
 [Linkedin]: https://www.linkedin.com/in/naumch1k/
 [facebook]: https://www.facebook.com/profile.php?id=1094566124
