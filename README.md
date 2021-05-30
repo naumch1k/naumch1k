@@ -14,14 +14,20 @@
 - [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
 - [HTML Academy][htmlacademy] Java Script | May, 2021 - Current
 
-### Current Projects 
-#### JS:
-* ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, interactive webpage where users can share their pictures
+### Current Projects
 
-### Other Projects 
+#### JS:
+* ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, marketplace for users to list, discover and book properties in the city of Tokyo
+
+### Other Projects
+
+#### JS:
+* ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, online photo-sharing application
+
 #### HTML, CSS:
-* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project created as a part of a study at HTML Academy, website about traveling the small town of Sedona.
+* ["Pink"](https://github.com/naumch1k/pink) - portfolio project created as a part of a study at HTML Academy, multi-page website with adaptive design introducing PINK web app
 * ["Russian Travel"](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, single-page website with adaptive design about traveling across Russia
+* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project created as a part of a study at HTML Academy, website about traveling the small town of Sedona
 * ["How to learn"](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, single-page website about studying methods
 
 ### Contacts
