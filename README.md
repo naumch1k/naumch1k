@@ -18,6 +18,7 @@
 
 #### JS:
 * ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, marketplace for users to list, discover and book properties in the city of Tokyo
+* ["Mesto" (React JS App)](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, online photo-sharing application
 
 ### Other Projects
 
