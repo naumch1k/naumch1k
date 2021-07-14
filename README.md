@@ -2,6 +2,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
@@ -17,19 +18,20 @@
 ### Current Projects
 
 #### JS:
+* ["Mesto" **(React JS App)**](https://github.com/naumch1k/react-mesto-auth) - portfolio project at Yandex.Practicum, **online photo-sharing application with User Login and Authentication**
 * ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, **marketplace for users to list, discover and book properties** in the city of Tokyo
-* ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, **online photo-sharing application**
 
 ### Other Projects
 
 #### JS:
+* ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, **online photo-sharing application**
 * ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, **online photo-sharing application**
 
 #### HTML, CSS:
-* ["Pink"](https://github.com/naumch1k/pink) - portfolio project created as a part of a study at HTML Academy, **multi-page website with adaptive design** introducing PINK web app
-* ["Russian Travel"](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, **single-page website with adaptive design** about traveling across Russia
-* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project created as a part of a study at HTML Academy, **multi-page website** about traveling the small town of Sedona
-* ["How to learn"](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website** about studying methods
+* ["Pink App"](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
+* ["Russian Travel"](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, **single-page website with adaptive design**
+* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project at HTML Academy, **multi-page website**
+* ["How to learn"](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website**
 
 ### Contacts
 [<img align="left" alt="naumchik Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">][Linkedin]
@@ -45,5 +47,6 @@
 [html]: https://html.spec.whatwg.org/
 [css]: https://en.wikipedia.org/wiki/CSS
 [js]: https://www.javascript.com/
+[react]: https://reactjs.org/
 [github]: https://github.com/
 [figma]: https://www.figma.com/
