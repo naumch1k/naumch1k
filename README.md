@@ -10,22 +10,20 @@
 <br>
 
 ### Education
-- [HTML Academy][htmlacademy] Professional Website Coding | Jan, 2021 - Feb, 2021
-- [HTML Academy][htmlacademy] Adaptive Website Coding and Automation | March, 2021 - May, 2021 
-- [Yandex.Praktikum][yapraktikum] | Jan, 2021 - Current
-- [HTML Academy][htmlacademy] Java Script | May, 2021 - Current
+- [Yandex.Praktikum][yapraktikum] Web Development Program | Jan, 2021 - Current
+- [HTML Academy][htmlacademy] Front-End Developer | Jan, 2021 - July, 2021
 
 ### Current Projects
 
 #### JS:
 * ["Mesto" **(React JS App)**](https://github.com/naumch1k/react-mesto-auth) - portfolio project at Yandex.Practicum, **online photo-sharing application with User Login and Authentication**
-* ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, **marketplace for users to list, discover and book properties** in the city of Tokyo
 
 ### Other Projects
 
 #### JS:
-* ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, **online photo-sharing application**
+* ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, **online photo-sharing application** built with React Create App
 * ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, **online photo-sharing application**
+* ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, marketplace for users to list, discover and book properties
 
 #### HTML, CSS:
 * ["Pink App"](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
