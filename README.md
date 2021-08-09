@@ -16,20 +16,25 @@
 ### Current Projects
 
 #### JS:
-* ["Mesto" **(React JS App)**](https://github.com/naumch1k/react-mesto-auth) - portfolio project at Yandex.Practicum, **online photo-sharing application with User Login and Authentication**
+
+*  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
 
 ### Other Projects
 
 #### JS:
-* ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react) - portfolio project at Yandex.Practicum, **online photo-sharing application** built with React Create App
-* ["Mesto"](https://github.com/naumch1k/mesto) - portfolio project at Yandex.Practicum, **online photo-sharing application**
+*  "Mesto" - portfolio project at Yandex.Practicum, **online photo-sharing application**:
+    *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/naumch1k/react-mesto-auth)
+    *  ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react)
+    *  ["Mesto" **(JS)**](https://github.com/naumch1k/mesto)
+
+
 * ["KeksoBooking"](https://github.com/naumch1k/1692143-keksobooking-23) - portfolio project at HTML Academy, marketplace for users to list, discover and book properties
 
 #### HTML, CSS:
-* ["Pink App"](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
-* ["Russian Travel"](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, **single-page website with adaptive design**
-* ["Sedona"](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project at HTML Academy, **multi-page website**
-* ["How to learn"](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website**
+* [Pink App](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
+* [Russian Travel](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, **single-page website with adaptive design**
+* [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project at HTML Academy, **multi-page website**
+* [How to learn](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website**
 
 ### Contacts
 [<img align="left" alt="naumchik Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">][Linkedin]
