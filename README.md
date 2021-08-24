@@ -15,14 +15,14 @@
 
 ### Current Projects
 
-#### JS:
-
-*  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
+_finals at Yandex.Praktikum are coming.._
 
 ### Other Projects
 
 #### JS:
 *  "Mesto" - portfolio project at Yandex.Practicum, **online photo-sharing application**:
+    *  ["Mesto" **(Frontend and Backend)**](https://github.com/naumch1k/react-mesto-api-full) deployed to [YandexCloud](https://cloud.yandex.com/en/)
+    *  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/naumch1k/react-mesto-auth)
     *  ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react)
     *  ["Mesto" **(JS)**](https://github.com/naumch1k/mesto)
