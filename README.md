@@ -15,7 +15,8 @@
 
 ### Current Projects
 
-_finals at Yandex.Praktikum are coming.._
+*  "Movies Explorer" - final project at Yandex.Practicum, **online app that allows users to look up movies and save the best ones to a Favorite Movies tab**:
+    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
 
 ### Other Projects
 
