@@ -12,18 +12,20 @@
 <br>
 
 ### Education
-- [Yandex.Praktikum][yapraktikum] Web Development Program | Jan, 2021 - Current
+- [Yandex.Praktikum][yapraktikum] Web Development Program | Jan, 2021 - Oct, 2021
 - [HTML Academy][htmlacademy] Front-End Developer | Jan, 2021 - July, 2021
 
 ### Current Projects
 
-*  "Movies Explorer" - final project at Yandex.Practicum, **online app that allows users to look up movies and save the best ones to a Favorite Movies tab**:
-    *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/naumch1k/movies-explorer-frontend)
-    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
+Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum) that develops a new website for [lubimovka.ru](https://lubimovka.ru/)
 
 ### Other Projects
 
 #### JS:
+*  "Movies Explorer" - final project at Yandex.Practicum, **online app that allows users to look up movies and save the best ones to a Favorite Movies tab**:
+    *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/naumch1k/movies-explorer-frontend)
+    *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
+
 *  "Mesto" - portfolio project at Yandex.Practicum, **online photo-sharing application**:
     *  ["Mesto" **(Frontend and Backend)**](https://github.com/naumch1k/react-mesto-api-full) deployed to [YandexCloud](https://cloud.yandex.com/en/)
     *  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
