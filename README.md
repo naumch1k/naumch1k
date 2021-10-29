@@ -17,7 +17,7 @@
 
 ### Current Projects
 
-Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum) that develops a new website for [lubimovka.ru](https://lubimovka.ru/)
+Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum) that develops a new website for [lubimovka](https://lubimovka.ru/) drama festival
 
 ### Other Projects
 
