@@ -39,14 +39,16 @@ Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yand
 * [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project at HTML Academy, **multi-page website**
 * [How to learn](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website**
 
-### Socials
+### Socials 
 [<img align="left" alt="naumchik Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">][Linkedin]
 [<img align="left" alt="naumchik Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Facebook_logo_%28square%29.png">][facebook]
 [<img align="left" alt="naumchik Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png">][telegram]
+[<img align="right" alt="naumchik Codewars" width="130px" src="https://www.codewars.com/users/naumch1k/badges/micro"/>][codewars]
 
 [Linkedin]: https://www.linkedin.com/in/naumch1k/
 [facebook]: https://www.facebook.com/profile.php?id=1094566124
 [telegram]: https://t.me/naumch1ck
+[codewars]: https://www.codewars.com/users/naumch1k
 [yapraktikum]: https://practicum.yandex.com/web/
 [htmlacademy]: https://htmlacademy.org/
 [vscode]: https://code.visualstudio.com/
