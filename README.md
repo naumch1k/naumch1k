@@ -24,7 +24,7 @@ Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yand
     *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
 
 *  "Mesto" - portfolio project at Yandex.Practicum, **online photo-sharing application**:
-    *  ["Mesto" **(Frontend and Backend)**](https://github.com/naumch1k/react-mesto-api-full) deployed to [YandexCloud](https://cloud.yandex.com/en/)
+    *  ["Mesto" **(Frontend and Backend)**](https://github.com/naumch1k/react-mesto-api-full) deployed to [AWS](https://aws.amazon.com/)
     *  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
     *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/naumch1k/react-mesto-auth)
     *  ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react)
