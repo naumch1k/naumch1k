@@ -14,11 +14,13 @@
 
 ### Current Projects
 
-Just joined the team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum) that is developing a new website for [lubimovka](https://lubimovka.ru/) drama festival
+Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page for the team of teenagers from Ukraine who are learning Game Development on their own and working on their first game 
 
 ### Other Projects
 
 #### JS:
+*   **Lubimovka Drama Festival** - worked with a team of [Yandex.Practicum Studio](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) developers on building a new website for [lubimovka](https://stage.dev.lubimovka.ru/) drama festival with total of 15 merged pull requests
+
 *  "Movies Explorer" - final project at Yandex.Practicum, **online app that allows users to look up movies and save the best ones to a Favorite Movies tab**:
     *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/naumch1k/movies-explorer-frontend)
     *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
