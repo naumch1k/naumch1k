@@ -25,12 +25,12 @@ Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page 
     *  ["Movies Explorer" - **frontend (React JS)**](https://github.com/naumch1k/movies-explorer-frontend)
     *  ["Movies Explorer" - **backend (Express JS)**](https://github.com/naumch1k/movies-explorer-api)
 
-*  "Mesto" - portfolio project at Yandex.Practicum, **online photo-sharing application**:
-    *  ["Mesto" **(Frontend and Backend)**](https://github.com/naumch1k/react-mesto-api-full) deployed to [AWS](https://aws.amazon.com/)
-    *  ["Mesto" **(Express JS)**](https://github.com/naumch1k/express-mesto)
-    *  ["Mesto" **(React JS App with User Login and Authentication)**](https://github.com/naumch1k/react-mesto-auth)
-    *  ["Mesto" **(React JS App)**](https://github.com/naumch1k/mesto-react)
-    *  ["Mesto" **(JS)**](https://github.com/naumch1k/mesto)
+*  "Around the U.S." - portfolio project at Yandex.Practicum, **online photo-sharing application**:
+    *  [**frontend and backend**](https://github.com/naumch1k/react-mesto-api-full) deployed to [AWS](https://aws.amazon.com/)
+    *  [**backend (Express JS)**](https://github.com/naumch1k/express-mesto)
+    *  [**frontend (React JS App with User Login and Authentication)**](https://github.com/naumch1k/react-mesto-auth)
+    *  [**React JS App**](https://github.com/naumch1k/mesto-react)
+    *  [**JS**](https://github.com/naumch1k/mesto)
 
 #### HTML, CSS:
 * [Pink App](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
