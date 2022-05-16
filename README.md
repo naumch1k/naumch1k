@@ -34,7 +34,7 @@ Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page 
 
 #### HTML, CSS:
 * [Pink App](https://github.com/naumch1k/pink) - portfolio project at HTML Academy, **multi-page website with adaptive design**
-* [Russian Travel](https://github.com/naumch1k/russian-travel) - portfolio project at Yandex.Practicum, **single-page website with adaptive design**
+* [From Portland to Portland](https://github.com/naumch1k/from-portland-to-portland) - portfolio project at Yandex.Practicum, **single-page website with adaptive design**
 * [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - portfolio project at HTML Academy, **multi-page website**
 * [How to learn](https://github.com/naumch1k/how-to-learn) - portfolio project at Yandex.Practicum, **single-page website**
 
