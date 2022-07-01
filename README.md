@@ -9,8 +9,8 @@
 <br>
 
 ### Education
-- [HarvardX][harvardx] Introduction to Computer Science | 2021 - 2022
-- [Yandex.Praktikum][yapraktikum] Web Development Program | Jan, 2021 - Oct, 2021
+- [HarvardX][harvardx] CS50's Introduction to Computer Science | 2021 - 2022
+- [Practicum Bootcamp][praktikum] Web Development Program | Jan, 2021 - Oct, 2021
 - [HTML Academy][htmlacademy] Front-End Developer | Jan, 2021 - July, 2021
 
 ### Current Projects
@@ -50,7 +50,7 @@ Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page 
 [telegram]: https://t.me/naumch1ck
 [codewars]: https://www.codewars.com/users/naumch1k
 [harvardx]: https://www.edx.org/school/harvardx
-[yapraktikum]: https://practicum.yandex.com/web/
+[praktikum]: https://practicum.com/web/
 [htmlacademy]: https://htmlacademy.org/
 [html]: https://html.spec.whatwg.org/
 [css]: https://en.wikipedia.org/wiki/CSS
