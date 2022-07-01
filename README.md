@@ -9,7 +9,7 @@
 <br>
 
 ### Education
-- [HarvardX][harvardx] Introduction to Computer Science | 2021 - current
+- [HarvardX][harvardx] Introduction to Computer Science | 2021 - 2022
 - [Yandex.Praktikum][yapraktikum] Web Development Program | Jan, 2021 - Oct, 2021
 - [HTML Academy][htmlacademy] Front-End Developer | Jan, 2021 - July, 2021
 
