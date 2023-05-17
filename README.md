@@ -24,7 +24,7 @@ Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page 
 *   [Front End Developer Challenge](https://github.com/naumch1k/shopify-intern-challenge) - an app that sends plain text prompts to the OpenAI API and displays the results; deployed with Netlify. I am particularly proud of this [piece of code](https://github.com/naumch1k/shopify-intern-challenge/blob/main/src/hooks/usePopup.jsx) <img alt="Assignment" src="https://img.shields.io/badge/-assignment-yellow">
 *   Lubimovka Drama Festival - worked with a team of [Practicum Studio](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) developers on building a new website for [Lubimovka Drama Festival](https://stage.dev.lubimovka.ru/) with total of 15 merged pull requests <img alt="Real project" src="https://img.shields.io/badge/-real%20project-red">
 
-*  "Movies Explorer" - online app that allows users to look up movies and save the best ones to a Favorite Movies tab <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
+*  "Movies Explorer" - online app that allows users to search movies and save favorites to their account <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
     *  ["Movies Explorer" - frontend (React)](https://github.com/naumch1k/movies-explorer-frontend)
     *  ["Movies Explorer" - backend (Node.js, Express)](https://github.com/naumch1k/movies-explorer-api)
 
