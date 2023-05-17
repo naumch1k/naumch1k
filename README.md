@@ -16,7 +16,9 @@
 
 ### Current Projects
 
-Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page for the team of teenagers from Ukraine who are learning Game Development on their own and working on their first game 
+I'm starting a new portfolio project. I aim to create a messenger app while further improving my skills in TypeScript and Node.js.
+
+I am also excited to return to the Palyanitsa initiative - a team of teenagers from Ukraine passionate about web technologies and game development - to continue building a website for them and mentor very talented upcoming developers.
 
 ### Other Projects
 
