@@ -35,10 +35,10 @@ Currently I'm [building](https://github.com/naumch1k/palyanitsa) a landing page 
     *  [JS](https://github.com/naumch1k/mesto)
 
 #### HTML, CSS:
-* [Pink App](https://github.com/naumch1k/pink) - multi-page website with adaptive design <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
 * [From Portland to Portland](https://github.com/naumch1k/from-portland-to-portland) - single-page website with adaptive design <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
-* [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - multi-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
 * [How to learn](https://github.com/naumch1k/how-to-learn) - single-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
+<!-- * [Pink App](https://github.com/naumch1k/pink) - multi-page website with adaptive design <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green"> -->
+<!-- * [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - multi-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green"> -->
 
 ### Socials 
 [<img align="left" alt="naumchik Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg">][Linkedin]
