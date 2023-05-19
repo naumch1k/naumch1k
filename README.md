@@ -31,7 +31,7 @@ I am also excited to return to the Palyanitsa initiative - a team of teenagers f
     *  [backend (Node.js, Express)](https://github.com/naumch1k/movies-explorer-api)
 
 *  "Around the U.S." - online photo-sharing application <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
-    *  [frontend (React App with User Login and Authentication)](https://github.com/naumch1k/react-mesto-api-full/tree/main/frontend) - currently not live, working on it
+    *  [frontend (React App with User Login and Authentication)](https://github.com/naumch1k/react-mesto-api-full/tree/main/frontend)
     *  [backend (Node.js, Express)](https://github.com/naumch1k/react-mesto-api-full/tree/main/backend)
     *  [React](https://github.com/naumch1k/mesto-react)
     *  [JS](https://github.com/naumch1k/mesto)
