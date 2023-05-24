@@ -16,7 +16,7 @@
 
 ### Current Projects
 
-I'm starting a new [portfolio project]([https://github.com/naumch1k/messenger](https://github.com/naumch1k/stellar-burgers)). I aim to create a cooool burger ordering app while further improving my skills in TypeScript and Node.js.
+I'm starting a new [portfolio project](https://github.com/naumch1k/stellar-burgers). I aim to create a cooool burger ordering app while further improving my skills in TypeScript and Node.js.
 
 I am also excited to return to the Palyanitsa initiative - a team of teenagers from Ukraine passionate about web technologies and game development - to continue building a website for them and mentor very talented upcoming developers.
 
