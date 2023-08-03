@@ -1,11 +1,15 @@
 # Hey, I'm Irina Naumchik     <br/><img  src="./about-me.gif" height="22px" />
 
 ### Languages and Tools
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">][react]
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img align="left" alt="Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"/>
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png"/>
+<img align="left" alt="MongoDB" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png"/>
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>
 <br>
 
 ### Education
@@ -17,6 +21,8 @@
 ### Current Projects
 
 I am excited to return to the Palyanitsa initiative - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies - to continue building a [website](https://pgds.xyz/) for them and become a mentor for very talented upcoming web developers.
+
+Also, I'm starting a new [portfolio project](https://github.com/naumch1k/stellar-burgers). I aim to create a cooool  burger ordering app while enhancing my TypeScript and Redux skills.
 
 ### Other Projects
 
@@ -54,7 +60,3 @@ I am excited to return to the Palyanitsa initiative - a group of teenagers from 
 [practicum]: https://practicum.com/
 [practicum-web]: https://practicum.com/web/
 [htmlacademy]: https://htmlacademy.org/
-[html]: https://html.spec.whatwg.org/
-[css]: https://en.wikipedia.org/wiki/CSS
-[js]: https://www.javascript.com/
-[react]: https://reactjs.org/
