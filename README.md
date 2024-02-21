@@ -13,21 +13,19 @@
 <br>
 
 ### Education
-- [Practicum Bootcamp][practicum] Software Engineering Program | *current*
 - [HarvardX][harvardx] CS50's Introduction to Computer Science | 2021 - 2022
 - [Practicum Bootcamp][practicum-web] Web Development Program | Jan, 2021 - Oct, 2021
 - [HTML Academy][htmlacademy] Front End Development | Jan, 2021 - July, 2021
 
-### Current Projects
+### Highlighted
 
-I am excited to return to the Palyanitsa initiative - a group of teenagers from Ukraine 🇺🇦 passionate about game development and web technologies - to continue building a [website](https://pgds.xyz/) for them and become a mentor for very talented upcoming web developers.
+🇺🇦 [Palianytsia Foundation](https://pgds.xyz/) is a nonprofit focused on empowering Ukrainian youth affected by war through education and mentorship. I lead a group of talented students in web development, providing mentorship, guidance, and support to their learning process and fostering skill development
 
-Also, I'm starting a new [portfolio project](https://github.com/naumch1k/stellar-burgers). I aim to create a cooool  burger ordering app while enhancing my TypeScript and Redux skills.
+🍔 [Stellar Burgers](https://github.com/naumch1k/stellar-burgers) is my ongoing portfolio project, serving as a playground for advanced React techniques and a journey to deepen my expertise in TypeScript and Redux. [Check out the demo here](https://naumch1k.github.io/stellar-burgers/)
 
 ### Other Projects
 
 #### JS:
-*   [Front End Developer Challenge](https://github.com/naumch1k/shopify-intern-challenge) - an app that sends plain text prompts to the OpenAI API and displays the results; deployed with Netlify. I am particularly proud of this [piece of code](https://github.com/naumch1k/shopify-intern-challenge/blob/main/src/hooks/usePopup.jsx) <img alt="Assignment" src="https://img.shields.io/badge/-assignment-yellow">
 *   Lubimovka Drama Festival - worked with a team of [Practicum Studio](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) developers on building a new website for [Lubimovka Drama Festival](https://stage.dev.lubimovka.ru/) with total of 15 merged pull requests <img alt="Real project" src="https://img.shields.io/badge/-real%20project-red">
 
 *  "Movies Explorer" - online app that allows users to search movies and save favorites to their account <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
