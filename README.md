@@ -6,6 +6,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"/>
 <img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TypeScript"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"/>
+<img align="left" alt="Next.JS" width="26px" src="https://openstandia.jp/oss_info/image/ossinfo_icon_nextjs.png" title="Next.JS"/>
 <img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" title="Redux"/>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="Node.js"/>
 <img align="left" alt="MongoDB" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png" title="MongoDB"/>
@@ -20,9 +21,9 @@
 
 ### Highlighted
 
-🇺🇦 [Palianytsia Foundation](https://pgds.xyz/) is a nonprofit focused on empowering Ukrainian youth affected by war through education and mentorship. I lead a group of talented students in web development, providing mentorship, guidance, and support to their learning process and fostering skill development
-
 🍔 [Stellar Burgers](https://github.com/naumch1k/stellar-burgers) is my ongoing portfolio project, serving as a playground for advanced React techniques and a journey to deepen my expertise in TypeScript and Redux. [Check out the demo here](https://naumch1k.github.io/stellar-burgers/)
+
+🇺🇦 [Palianytsia Foundation](https://content-updates--roaring-cobbler-77c6c8.netlify.app/) is a nonprofit focused on empowering Ukrainian youth affected by war through education and mentorship. I designed and developed a website for the initiative, ensuring a reliable online presence that supported the organization's objectives.
 
 ### Other Projects
 
@@ -41,7 +42,7 @@
 
 #### HTML, CSS:
 * [From Portland to Portland](https://github.com/naumch1k/from-portland-to-portland) - single-page website with adaptive design <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
-* [How to learn](https://github.com/naumch1k/how-to-learn) - single-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
+<!-- * [How to learn](https://github.com/naumch1k/how-to-learn) - single-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green"> -->
 <!-- * [Pink App](https://github.com/naumch1k/pink) - multi-page website with adaptive design <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green"> -->
 <!-- * [Sedona](https://github.com/naumch1k/1692143-sedona-30/tree/feature/eng) - multi-page website <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green"> -->
 
