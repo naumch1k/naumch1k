@@ -23,7 +23,7 @@
 
 🍔 [Stellar Burgers](https://github.com/naumch1k/stellar-burgers) is my ongoing portfolio project, serving as a playground for advanced React techniques and a journey to deepen my expertise in TypeScript and Redux. [Check out the demo here](https://naumch1k.github.io/stellar-burgers/)
 
-🇺🇦 [Palianytsia Foundation](https://content-updates--roaring-cobbler-77c6c8.netlify.app/) is a nonprofit focused on empowering Ukrainian youth affected by war through education and mentorship. I designed and developed a website for the initiative, ensuring a reliable online presence that supported the organization's objectives.
+🇺🇦 [Palianytsia Foundation](https://content-updates--palianytsia.netlify.app/) is a nonprofit focused on empowering Ukrainian youth affected by war through education and mentorship. I designed and developed a website for the initiative, ensuring a reliable online presence that supported the organization's objectives.
 
 ### Other Projects
 
