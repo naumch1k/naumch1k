@@ -30,10 +30,6 @@
 #### JS:
 *   Lubimovka Drama Festival - worked with a team of [Practicum Studio](https://github.com/Studio-Yandex-Practicum/lubimovka_frontend) developers on building a new website for [Lubimovka Drama Festival](https://stage.dev.lubimovka.ru/) with total of 15 merged pull requests <img alt="Real project" src="https://img.shields.io/badge/-real%20project-red">
 
-*  "Movies Explorer" - online app that allows users to search movies and save favorites to their account <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
-    *  [frontend (React App with User Login and Authentication)](https://github.com/naumch1k/movies-explorer-frontend)
-    *  [backend (Node.js, Express)](https://github.com/naumch1k/movies-explorer-api)
-
 *  "Around the U.S." - online photo-sharing application <img alt="Portfolio project" src="https://img.shields.io/badge/-portfolio%20project-green">
     *  [frontend (React App with User Login and Authentication)](https://github.com/naumch1k/react-mesto-api-full/tree/main/frontend)
     *  [backend (Node.js, Express)](https://github.com/naumch1k/react-mesto-api-full/tree/main/backend)
