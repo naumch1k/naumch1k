@@ -4,14 +4,15 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" title="HTML5"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" title="CCS3"/>
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" title="JavaScript"/>
-<img align="left" alt="TypeScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" title="TypeScript"/>
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="TypeScript"/>
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" title="React"/>
 <img align="left" alt="Next.JS" width="26px" src="https://openstandia.jp/oss_info/image/ossinfo_icon_nextjs.png" title="Next.JS"/>
 <img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" title="Redux"/>
 <img align="left" alt="Node.js" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png" title="Node.js"/>
-<img align="left" alt="MongoDB" width="26px" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3247796/mongodb-icon-md.png" title="MongoDB"/>
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" title="MongoDB"/>
 <img align="left" alt="The Command Line" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="The Command Line"/>
 <img align="left" alt="Webpack" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/webpack-icon-logo.png" title="Webpack"/>
+<br>
 <br>
 
 ### Highlighted
